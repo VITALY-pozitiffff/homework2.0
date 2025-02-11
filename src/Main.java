@@ -56,4 +56,4 @@ public class Main {
         var time2 =staff2*time;
         System.out.println("Если в компании работает " + staff2 +"  человек,то всего " + time2 + "  часов работы может быть поделено между сотрудниками");
     }
-};
+}
